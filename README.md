@@ -6,12 +6,9 @@ Un programme codé en Python pour calculer l'amplitude du champ électrique et l
 
 ### Aperçu
 
-Amplitude du champ électrique et PSF 1D :
-<p float="left">
-  <img src="resources//1D_psf.png"  width="400" />
-</p>
+Amplitude du champ électrique et PSF 1D/2D :
 
-Amplitude du champ électrique et PSF 2D :
-<p float="left">
+<p float="left" align ="center">
+  <img src="resources//1D_psf.png"  width="400" />
   <img src="resources//2D_psf.gif"  width="400" />
 </p>
