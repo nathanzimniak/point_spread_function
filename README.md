@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Language-Python-blue.png)
 
-Un programme codé en Python pour calculer l'amplitude du champ électrique et la PSF dans le plan image en fonction de la pupille utilisée, en 1D et 2D.
+Un programme codé en Python pour calculer l'amplitude du champ électrique et la PSF (point spread function) dans le plan image en fonction de la pupille utilisée, en 1D et 2D.
 
 ### Aperçu
 
