@@ -1,4 +1,4 @@
-## Calcul de l'amplitude du champ électrique et de la PSF (point spread function) dans le plan image en fonction de la pupille utilisée, en 1D et 2D
+## Calcul de l'amplitude du champ électrique et de la PSF
 
 ![](https://img.shields.io/badge/Language-Python-blue.png)
 
